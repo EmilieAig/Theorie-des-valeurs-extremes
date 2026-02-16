@@ -26,7 +26,7 @@ Ce projet applique la théorie des valeurs extrêmes pour modéliser le comporte
 - Modélisation avec des modèles max-stables (logistique et logistique asymétrique)
 - Influence de la distance géographique sur la dépendance extrémale
 
-## 📁 Structure du projet
+## Structure du projet
 ```
 ├── data/
 │   ├── DonneesVagues.RData
