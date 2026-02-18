@@ -31,7 +31,10 @@ Ce projet applique la théorie des valeurs extrêmes pour modéliser le comporte
 ├── data/
 │   ├── DonneesVagues.RData
 │   └── DonneesStations.RData
-├── projet_vagues_extremes.Rmd
+├── Codes_individuels/
+│   ├── projet.R                     # analyses univariés avant mise au propre
+│   └── projet_vagues_extremes.Rmd   # analyses bivariées avant mise au propre
+├── projet_valeurs_extremes.Rmd      # script pour faire toutes nos analyses
 └── README.md
 ```
 
